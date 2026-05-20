@@ -46,7 +46,8 @@ The Customer Churn Analysis Dashboard is an interactive business intelligence so
 ## 🖼️ Dashboard Screenshots
 
 ### Main Dashboard
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](<img width="1324" height="745" alt="image" src="https://github.com/user-attachments/assets/7404f71f-025d-4ef6-b0fc-6c4dc9a71462" />
+)
 
 ### Tooltip Analysis Page
 ![Tooltip](Screenshots/tooltip-page.png)
