@@ -43,16 +43,5 @@ The Customer Churn Analysis Dashboard is an interactive business intelligence so
 
 ---
 
-## 🖼️ Dashboard Screenshots
-
-### Main Dashboard
-![Dashboard](<img width="1324" height="745" alt="Screenshot 2026-05-20 115027" src="https://github.com/user-attachments/assets/49d2dc50-bc5d-41a2-8b50-818badb6d6e0" />
-)
-
-### Tooltip Analysis Page
-![Tooltip](Screenshots/tooltip-page.png)
-
----
-
 ## 🚀 Conclusion
 This project demonstrates how Power BI can be used to analyze customer churn patterns, generate business insights, and support data-driven customer retention strategies through interactive dashboards and visual analytics.
