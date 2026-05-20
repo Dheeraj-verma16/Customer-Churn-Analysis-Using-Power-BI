@@ -14,6 +14,7 @@ The Customer Churn Analysis Dashboard is an interactive business intelligence so
 ---
 
 ## 🛠️ Tools & Technologies Used
+- SQL Server
 - Power BI
 - Power Query
 - DAX
@@ -40,6 +41,15 @@ The Customer Churn Analysis Dashboard is an interactive business intelligence so
 - Fiber Optic internet users had significantly higher churn compared to other services.
 - Customers using mailed check payments and customers from Jammu & Kashmir showed high churn risk.
 - Competitor-related reasons such as better devices and better offers were major churn drivers.
+
+---
+
+## 📈 Project Highlights
+- Used SQL for data exploration, null value analysis, and data cleaning before importing data into Power BI.
+- Created SQL Views to optimize data loading and reporting in Power BI.
+- Developed interactive churn analysis dashboards using DAX measures and dynamic visualizations.
+- Built tooltip drill-through pages for detailed churn reason analysis.
+- Performed customer segmentation analysis based on tenure, geography, age group, and payment methods.
 
 ---
 
